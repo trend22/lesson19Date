@@ -1,5 +1,3 @@
-const one = require('./modules/one')
-const two = require('./modules/two')
+const timer = require('./modules/timer')
 
-one()
-two()
+timer('31 december 2022')
